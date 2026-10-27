@@ -1,0 +1,23 @@
+# Virtual muhit
+venv/
+.venv/
+env/
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Maxfiy ma'lumotlar va kalitlar
+.env
+
+# Ma'lumotlar bazasi
+*.db
+*.sqlite
+*.sqlite3
+
+# Operatsion tizim va muharrir fayllari
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
